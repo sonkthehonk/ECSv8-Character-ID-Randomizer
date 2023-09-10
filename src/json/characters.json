@@ -95,8 +95,9 @@
  
 	"41":	{ "ReservedBy":	"benkoopa" },			// El Macho
 	"42":	{ "ReservedBy":	"Stumpedlogs#0001" },		// Meat Boy
-	
-        "44":	{ "ReservedBy":	"SAMPL#1873" },			// Alice the long-eared hedgehog 
+        "44":	{ "ReservedBy":	"SAMPL#1873" },			// Alice the long-eared hedgehog
+  	"45":   { "ReservedBy": "garfield_gato" },	        // Boomer the Turtle
+
 	
 
 	"46":	{ "ReservedBy": "beesouls🆖#3712" },		// Kitsunami 
